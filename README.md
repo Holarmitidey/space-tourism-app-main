@@ -6,7 +6,6 @@ This is a solution to the [Space tourism website challenge on Frontend Mentor](h
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -35,10 +34,6 @@ Users should be able to:
 
 ![Vehicles Page](./screenshots/vehicle.png)
 
-### Links
-
-- Solution URL: [Git Link](https://github.com/Cross-companion/space-tourism-app)
-- Live Site URL: [Live Site](https://space-tourism-app-omega.vercel.app)
 
 ## My process
 
@@ -78,7 +73,6 @@ Going on From Here, I would continue my Learning learnings with React and Next.j
 
 ## Author
 
-- Website - Nwodoh Daniel
+- Website - Ganiyu Olamide
 - Frontend Mentor - [@Cross-companion](https://www.frontendmentor.io/profile/Cross-companion)
-- Twitter - [@Cross_companion](https://www.twitter.com/Cross_companion)
 
